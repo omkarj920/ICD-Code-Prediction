@@ -1,0 +1,9 @@
+streamlit
+gensim
+numpy
+pandas
+scikit-learn
+langchain_groq
+langchain 
+nltk
+textblob
