@@ -79,7 +79,7 @@ test_input('Typhoid fever',W2v,PC,Z1,10)
 from langchain_groq import ChatGroq
 ## OPENAI LLMS
 llm1=ChatGroq(temperature=0.8,
-             groq_api_key='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')
+             groq_api_key='')
 
 
 
